@@ -5,10 +5,10 @@
     <meta charset="UTF-8">
     <meta name="viewport"
         content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no">
-    <title>这里是网站标题</title>
+    <title>Liu's Blog</title>
     <meta name="description"
-        content="这里是网站介绍">
-    <meta name="keywords" content="这里是网站关键词">
+        content="六六の主页">
+    <meta name="keywords" content="Blog,主页">
     <link rel="stylesheet" type="text/css" href="./css/FiraCode.css">
     <link rel="stylesheet" type="text/css" href="./css/nutssss.css">
     <link rel="icon" href="./favicon.ico">
@@ -22,7 +22,7 @@
             <div class="headPhoto"></div>
             <!-- 介绍 -->
             <div class="meBox-title">
-                <p>I'm N0ts</p>
+                <p>I'm LiuLiu</p>
                 <div class="fg"></div>
             </div>
             <div class="meBox-text">
@@ -96,11 +96,9 @@
                     <span style="color: rgb(39, 39, 39);">./links.sh</span>
                     <p>我的其他站点：</p>
                     <ul class="ul">
-                        <li><a href="https://blog.nutssss.cn/">Blog</a></li>
-                        <li><a href="https://lovexhj.cn/">Love</a></li>
+                        <li><a href="https://52aill.xyz/">Blog</a></li>
+                        <li><a href="https://love.52aill.xyz/">Love</a></li>
                         <li><a href="https://note.nutssss.cn/">Note</a></li>
-                        <li><a href="https://mc.nutssss.cn/">Mc</a></li>
-                        <li><a href="https://mc.nutssss.cn/blog/">McBlog</a></li>
                     </ul>
                     <span style="color: rgb(0, 190, 0);">root@nutssss</span>
                     <span style="color: blue;">~</span>
@@ -112,7 +110,7 @@
     <!-- 页脚 -->
     <div id="footer">
         <p>© 2020 NUTSSSS | <a href="http://beian.miit.gov.cn">湘ICP备18015792号</a></p>
-        <p>THEME MADE BY <a href="https://nutssss.cn/">Nutssss</a></p>
+        <p>THEME MADE BY <a href="https://n0ts.cn//">Nutssss</a></p>
     </div>
 </body>
 
